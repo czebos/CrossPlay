@@ -32,7 +32,7 @@
   If a gull is taken and the square that it is supposed to be 
     moved to is taken, that gull is removed from the board.
     
-# User Guide - Cross Play
+# User Guide 
 By: Conrad Zborowski
 
 # Settings
