@@ -74,8 +74,9 @@ At any point, the user may click the quit button to exit the game
 
 At any point, the user may click the undo button as many times it would like to undo their most recent move and the opponents most recent move
 
+# Design Choices
 **********************************************************************************************************
-# README Individual Project- CrossPlay
+README Individual Project- CrossPlay
 
 DESIGN CHOICES:
 
