@@ -50,9 +50,7 @@ If an AI was selected, the difficulty is determined by the slider
 
 The Slider determines the number of iterations that the computer will simulate
 
-The start button starts the game; the start button may be used to start over the game with different players, but the difficulty of AI 
-
-will remain the same
+The start button starts the game; the start button may be used to start over the game with different players, but the difficulty of AI will remain the same
 
 # Game Play
 A computer will think, then automatically play its move when it is its turn
@@ -76,10 +74,8 @@ At any point, the user may click the quit button to exit the game
 
 At any point, the user may click the undo button as many times it would like to undo their most recent move and the opponents most recent move
 
-
-# Below explains the design choices and other relevant information about my individual project CrossPlay
 **********************************************************************************************************
-README Individual Project- CrossPlay
+# README Individual Project- CrossPlay
 
 DESIGN CHOICES:
 
