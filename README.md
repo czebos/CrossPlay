@@ -4,23 +4,31 @@
 # Objective:
   Get one gull to the other side of the board
 	Before the opponent does
+	
   Prevent your opponent from having any moves
+  
 # Movement:
   A gull(each piece on the board), may move
 	  forward once or twice depending on circumstance.
+	  
   A gull may take another gull diagonally forward of
 	  the opposite color
+	  
   A gull may move left or right if it is on its 
     backmost row
+    
 # Rules:
   White and Black take turns making one move.
 	Black starts with the first move.
+	
   On the very first move of an individual gull,
     the gull may move forward twice. After the gull
     makes any type of move, it may not move forward 2.
+    
   When a gull is taken, it is moved to its backmost row
 	  in the column it was in, and it may move like it is its first 
     move again.
+    
   If a gull is taken and the square that it is supposed to be 
     moved to is taken, that gull is removed from the board.
     
@@ -29,26 +37,43 @@ By: Conrad Zborowski
 
 # Settings
 Before the game, the user may choose which players will play the game by clicking the radio buttons on the side
+
 Player 1 and Player 2 may choose from Player, Win AI, and Losing AI
+
 Player gives the opportunity for a human to play the game
+
 Win AI is a MonteCarlo Tree Search AI that plays to win the game
+
 Losing AI is a MonteCarlo Tree Search AI that plays to lose the game
+
 If an AI was selected, the difficulty is determined by the slider
+
 The Slider determines the number of iterations that the computer will simulate
-The start button starts the game; the start button may be used to start over the game with different players, but the difficulty of AI will remain the same
+
+The start button starts the game; the start button may be used to start over the game with different players, but the difficulty of AI 
+
+will remain the same
 
 # Game Play
 A computer will think, then automatically play its move when it is its turn
+
 For a player to move a piece, the player must first select the piece that it wishes to move, then the space that the player wishes to move it
+
 If no piece is selected when a space is clicked, no move will happen. The piece selected is denoted by the red square around it
+
 Similarly, if the move is illegal, the move will not be made
+
 If a piece can take another, then clicking on the piece will not select it, but take it
+
 When a piece is taken it is moved back to the backmost row, unless it is occupied
+
 When a piece makes a legal move, it should animate to the clicked square 
 
 # Special Buttons
 At any point, a human player may ask for a hint, and the computer will calculate a very good move for the human. Click the button to get the hint
+
 At any point, the user may click the quit button to exit the game
+
 At any point, the user may click the undo button as many times it would like to undo their most recent move and the opponents most recent move
 
 
