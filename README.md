@@ -1,18 +1,18 @@
-####################################################################
-CrossPlay Rules
 
-Objective:
+# CrossPlay Rules
+
+# Objective:
   Get one gull to the other side of the board
 	Before the opponent does
   Prevent your opponent from having any moves
-Movement:
+# Movement:
   A gull(each piece on the board), may move
 	  forward once or twice depending on circumstance.
   A gull may take another gull diagonally forward of
 	  the opposite color
   A gull may move left or right if it is on its 
     backmost row
-Rules:
+# Rules:
   White and Black take turns making one move.
 	Black starts with the first move.
   On the very first move of an individual gull,
@@ -23,12 +23,11 @@ Rules:
     move again.
   If a gull is taken and the square that it is supposed to be 
     moved to is taken, that gull is removed from the board.
-####################################################################
-
-User Guide - Cross Play
+    
+# User Guide - Cross Play
 By: Conrad Zborowski
 
-Settings
+# Settings
 Before the game, the user may choose which players will play the game by clicking the radio buttons on the side
 Player 1 and Player 2 may choose from Player, Win AI, and Losing AI
 Player gives the opportunity for a human to play the game
@@ -38,7 +37,7 @@ If an AI was selected, the difficulty is determined by the slider
 The Slider determines the number of iterations that the computer will simulate
 The start button starts the game; the start button may be used to start over the game with different players, but the difficulty of AI will remain the same
 
-Game Play
+# Game Play
 A computer will think, then automatically play its move when it is its turn
 For a player to move a piece, the player must first select the piece that it wishes to move, then the space that the player wishes to move it
 If no piece is selected when a space is clicked, no move will happen. The piece selected is denoted by the red square around it
@@ -47,7 +46,7 @@ If a piece can take another, then clicking on the piece will not select it, but 
 When a piece is taken it is moved back to the backmost row, unless it is occupied
 When a piece makes a legal move, it should animate to the clicked square 
 
-Special Buttons
+# Special Buttons
 At any point, a human player may ask for a hint, and the computer will calculate a very good move for the human. Click the button to get the hint
 At any point, the user may click the quit button to exit the game
 At any point, the user may click the undo button as many times it would like to undo their most recent move and the opponents most recent move
