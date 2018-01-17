@@ -94,7 +94,6 @@ public class Game {
 				Constants.BOTTOM_START);
 	}
 
-	// check for accountability later
 	public void setPieces(int times) {
 		if (times != 0) {
 			LogicBoard undoBoard = _logicBoard.getUndoStack().pop();
